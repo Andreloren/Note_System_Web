@@ -50,4 +50,4 @@ O Note System é uma simulação de sistema CRUD que armazena dados no Local Sto
 
 ## 📓 Sistema
 
-Trabalho final do Modulo Banco de Dados III da Growdev. Consumindo API NoteSystem_API_Arquitetura[API](https://github.com/Andreloren/NoteSystem_API_Arquitetura)
+Trabalho final do Modulo Banco de Dados III da Growdev. Consumindo API NoteSystem_API_Arquitetura [API](https://github.com/Andreloren/NoteSystem_API_Arquitetura)
