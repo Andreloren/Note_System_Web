@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Sistema de Recados </h1>
 
 <p align="center">
-Projeto Final de Módulo Banco de Dados - Growdev
+Projeto Final de Módulo Banco de Dados III - Growdev
 </p>
 
 <p align="center">
@@ -46,10 +46,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Note System é uma simulação de sistema CRUD que armazena dados no Local Storagem com o Redux Persist, com React Router Dom você navega pelas páginas de Login, Cadastro e Recados. Podendo cadastrar multiplos usuários, bem como incluir,editar e excluir uma lista de recados.
+O Note System é uma simulação de sistema CRUD que armazena dados no Local Storagem com o Redux Persist, com React Router Dom você navega pelas páginas de Login, Cadastro e Recados. Podendo cadastrar multiplos usuários, bem como incluir,editar, arquivar e excluir uma lista de recados.
 
 ## 📓 Sistema
 
-Trabalho final do Modulo Banco de Dados II da Growdev.
-
-Versão atualizada do projeto [Sistema de Recados](https://github.com/Andreloren/Note_System_DB),
+Trabalho final do Modulo Banco de Dados III da Growdev. Consumindo API NoteSystem_API_Arquitetura[API](https://github.com/Andreloren/NoteSystem_API_Arquitetura)
